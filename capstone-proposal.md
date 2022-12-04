@@ -19,6 +19,14 @@
 * Use my love for mushrooms/foraging as design inspiration
 * Add sound - button clicks/page shifts with option to silence
 * Sticky Sidebar
+* Interesting loading message between pages
+* Animation that follows your curser
+* Option for light or dark theme
+* Hover effects
+* Icons next to contact links (linked in, github, etc.)
+* Contact Form
+* Add a coming soon project - something I would like to work on on personal time
+
 
 ### What additional tools, frameworks, libraries, APIs, or other resources will these additional features require?
 * Three.js
