@@ -1,15 +1,30 @@
-Name of Student:
+# Keisha Hepner
 
-Name of Project:
+## Capstone - My Portfolio
 
-Project's Purpose or Goal: (What will it do for users?)
+### Project's Purpose or Goal: (What will it do for users?)
+* To create a webpage that outlines my journey to the tech industry, why I chose this field and the type of work/projects I am interested in working on
+* To hold a library of projects I am most proud of and projects I am currently working on
+* To demonstrate design and coding skills to deliver an aesthetically pleasing and fully functioning webpage
+* A one-stop-shop of links to linkedin, github, etc.
 
-List the absolute minimum features the project requires to meet this purpose or goal:
 
-What tools, frameworks, libraries, APIs, modules and/or other resources (whatever is specific to your track, and your language) will you use to create this MVP? List them all here. Be specific.
+### What tools, frameworks, libraries, APIs, modules and/or other resources (whatever is specific to your track, and your language) will you use to create this MVP? List them all here. Be specific.
+* React/Redux
+* JS
+* GitHub
+* VS Code
 
-If you finish developing the minimum viable product (MVP) with time to spare, what will you work on next? Describe these features here: Be specific.
+### If you finish developing the minimum viable product (MVP) with time to spare, what will you work on next? Describe these features here: Be specific.
+* Use my love for mushrooms/foraging as design inspiration
+* Add sound - button clicks/page shifts with option to silence
+* Sticky Sidebar
 
-What additional tools, frameworks, libraries, APIs, or other resources will these additional features require?
+### What additional tools, frameworks, libraries, APIs, or other resources will these additional features require?
+* Three.js
+* SASS
+* CSS
+* Bootstrap
+
 
 Is there anything else you'd like your instructor to know?
