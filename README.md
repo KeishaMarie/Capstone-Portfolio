@@ -7,6 +7,7 @@
 * 7:40 - Planning style and layout of webpage
 * 8:38 - Planning style and layout of webpage cont.
 * 9:36 - Experimenting with Three.js
+* 10:39 - Cont. experimenting with Three.js
 
 
 #### MVP content I wish to include
