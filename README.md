@@ -2,6 +2,7 @@
 * 2:00 - Look at different portfolios for inspiration on features and design
 * 3:05 - Research best tools to use, such as Three.js and blender
 * 4:00 - Learning more about Three.js
+* 5:02 - Continue Three.js learning
 
 
 #### MVP features I wish to include
