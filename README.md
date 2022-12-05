@@ -5,6 +5,7 @@
 * 5:02 - Continue Three.js learning
 * 6:33 - Researching Bootstrap
 * 7:40 - Planning style and layout of webpage
+* 8:38 - Planning style and layout of webpage cont.
 
 
 #### MVP content I wish to include
