@@ -9,6 +9,8 @@
 * 9:36 - Experimenting with Three.js
 * 10:39 - Cont. experimenting with Three.js
 
+* 3:40 - Research React a bit more to make sure it is the library I want to use
+
 
 #### MVP content I wish to include
 * Resume - downloadable
