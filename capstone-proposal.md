@@ -16,7 +16,7 @@
 * VS Code
 
 ### If you finish developing the minimum viable product (MVP) with time to spare, what will you work on next? Describe these features here: Be specific.
-* Use my love for mushrooms/foraging as design inspiration
+* Use my love for mushrooms/foraging as design inspiration - have spores fall when clicking on links
 * Add sound - button clicks/page shifts with option to silence
 * Sticky Sidebar
 * Interesting loading message between pages

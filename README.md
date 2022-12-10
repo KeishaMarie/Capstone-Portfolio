@@ -10,6 +10,7 @@
 * 10:39 - Cont. experimenting with Three.js
 
 * 3:40 - Research React a bit more to make sure it is the library I want to use
+* 4:16 - Switched gears to try to lock in design of portfolio
 
 
 #### MVP content I wish to include
