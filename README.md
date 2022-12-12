@@ -13,6 +13,7 @@
 * 4:16 - Switched gears to try to lock in design of portfolio
 * 5:25 - Reseaching how three.js would work with vanilla JS vs React
 * 6:27 - Experimenting with cursor effects to determine whether or not to use react
+* 7:37 - Deciding not to use React. Researching styling with css and Sass
 
 
 #### MVP content I wish to include
