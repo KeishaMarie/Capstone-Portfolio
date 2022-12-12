@@ -16,6 +16,7 @@
 * 7:37 - Deciding not to use React. Researching styling with css and Sass
 * 8:40 - Reviewing project set-up in lessons
 * 9:39 - Troubleshooting image path, continue research on css/sass
+* 10:42 - Experimenting with css styling
 
 
 #### MVP content I wish to include
