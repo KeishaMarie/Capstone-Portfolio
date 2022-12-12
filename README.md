@@ -11,6 +11,7 @@
 
 * 3:40 - Research React a bit more to make sure it is the library I want to use
 * 4:16 - Switched gears to try to lock in design of portfolio
+* 5:25 - Reseaching how three.js would work with vanilla JS vs React
 
 
 #### MVP content I wish to include
