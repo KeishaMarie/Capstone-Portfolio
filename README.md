@@ -8,7 +8,9 @@
 * 8:38 - Planning style and layout of webpage cont.
 * 9:36 - Experimenting with Three.js
 * 10:39 - Cont. experimenting with Three.js
+
 <br>
+
 * 3:40 - Research React a bit more to make sure it is the library I want to use
 * 4:16 - Switched gears to try to lock in design of portfolio
 * 5:25 - Reseaching how three.js would work with vanilla JS vs React
